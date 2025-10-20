@@ -9,6 +9,7 @@
     "preview": "vite preview --open"
   },
   "devDependencies": {
+    "sass": "^1.93.2",
     "vite": "^7.1.7"
   },
   "engines": {
