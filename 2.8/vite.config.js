@@ -25,6 +25,7 @@ export default defineConfig ({
   ],
   build: {
     minify: true,
+    cssMinify: true,
     sourcemap: true,
     rollupOptions: {
       input: {
